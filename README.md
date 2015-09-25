@@ -8,7 +8,7 @@ A simple brain teaser game in Rust.
 
 * Rust
 
-## Hot to play
+## How to play
 ```bash
 $ git clone https://github.com/rysh/adding_game.git
 $ cd addition_game
